@@ -21,3 +21,6 @@ h2{
     line-height: 1.375rem;
     color:#ffff
 }
+body{
+    background-color:var(--LightGray);
+}
